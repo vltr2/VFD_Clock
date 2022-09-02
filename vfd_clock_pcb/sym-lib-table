@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "VFDs")(type "KiCad")(uri "${KIPRJMOD}/VFDs.kicad_sym")(options "")(descr ""))
+)
